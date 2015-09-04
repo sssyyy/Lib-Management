@@ -1,0 +1,80 @@
+.notify0 {
+        background:#D0E6E5;  /* or #a0c0ae */
+        width:30%;
+        position: relative;
+        left:50px;
+        margin:-10px;
+        padding: 30px;
+        border: 1px solid #020204;/*2px solid #CC0000;*/
+        box-shadow: 0px 4px 5px #AAAAAA;
+        font-size:14px;
+        font-family: 'Lato Regular', Arial;
+        text-transform:uppercase;
+    /*text-align:center;*/
+         top: 0px;
+        }
+.notify1 {
+        background:#D0E6E5; /* #FAFAFA */
+        width:30%;
+        position: relative;
+        left:520px;
+        top: -142px;
+        margin: -10px;
+        padding: 30px;
+        border: 1px solid #020204; /*2px solid #CC0000;*/
+        box-shadow: 0px 4px 5px #AAAAAA;
+        font-size:14px;
+        font-family: 'Lato Regular', Arial;
+        text-transform:uppercase;
+   /* text-align:center;*/
+        }
+h1{ /*title*/
+        color: blue;
+	text-align: center;
+        }
+.name{ /*name tag*/
+        text-align: right;
+        color:blue;
+}
+.namevalue{ /* name value*/
+        /*color:pink;*/
+        text-align:left;
+}
+.job{ /*job tag */
+        text-align:right;
+        color:blue;
+}
+.jobvalue{/* job value*/
+        text-align:left;
+}
+.emp{ /*table content */
+        width: 210px;
+        margin-left:-12px;
+}
+.tablespan{
+        position: relative;
+        width:35px;
+        height: 50px;
+        left:-1px;
+        top:12px;
+        text_alight:right;
+        /*right:-12px;*/
+        /* top:-4px; */
+
+}
+.rightpic{
+        position: relative;
+        width: 130px;
+        height:40px;
+        top:-70px;
+        left:190px;
+        /*background: green;*/ /* testing*/
+        color:orange;
+        text-align:center;
+
+}
+.staffpic{ /* adjust the hight and width of the picturess*/
+height:125px;
+width:100px;
+}
+ 

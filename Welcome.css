@@ -1,0 +1,30 @@
+
+.libTitle {
+    background-color:white;
+    color:red;
+    text-align:center;
+    padding:5px;
+	text-decoration: underline;
+	 letter-spacing: 5px;
+	 font: italic bold 20px/30px Georgia, serif;
+	 
+}
+
+.LibHours {
+		float: right;
+		background-color:  #D0E6E5;
+		width: 200px;
+		padding: 25px;
+		border: 5px solid black;
+		margin: 25px; 
+}
+.Contactdetail {
+    font: italic bold 14px/30px Georgia, serif;
+    color:red;
+    clear:both;
+    text-align:Left;
+    padding:1px; 
+	width:100%;
+	 float:Left;
+}
+ 
